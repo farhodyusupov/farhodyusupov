@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @farhodyusupov
 - 👀 I’m interested in Mobile programming
-- 🌱 I’m currently learning Flutter(Dart)
+- 🌱 I’m currently learning state managemet
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me farhodyusupovubtuit1998@gmail.com
+- 📫 How to reach me farxody98@gmail.com
 
 <!---
 farhodyusupov/farhodyusupov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
